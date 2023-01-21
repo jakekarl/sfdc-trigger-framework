@@ -19,7 +19,7 @@ But the most important part of this framework is that it's minimal and simple to
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 **Deploy to Salesforce Org:**
-[![Deploy](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=kevinohara80&repo=sfdc-trigger-framework&ref=master)
+[![Deploy](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=jakekarl&repo=sfdc-trigger-framework&ref=master)
 
 ## Usage
 
